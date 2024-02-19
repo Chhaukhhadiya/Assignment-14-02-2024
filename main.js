@@ -29,7 +29,7 @@ const stu = {
       return { subject: subject, grade: stu.grade * 2 };
     });
     console.log("Original Grades:", stu.grade);
-    console.log("Doubled Grades:", doubledGrades);
+    console.log("Doubled Grades:", score_double);
   }
   
   score_double(stu);
